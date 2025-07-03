@@ -1,6 +1,6 @@
 read -p "[*] Enter Repo Name: " Repo
 
-Token="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"
+Token="REDACTED"
 
 git init
 
